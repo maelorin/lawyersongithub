@@ -241,15 +241,13 @@ Member of Madrid (Spain) Bar. IP litigator. IP lecturer. Joined Github on Feb 24
 
 [Firm website] (http://javierdelacueva.es)
 
-## [Patrick Ellis](https://github.com/SpartyLegal)
+## [Patrick Ellis](https://github.com/pmellis)
 
-Project Manager at Honigman Miller Schwartz & Cohn LLP. Pending Member of the Michigan Bar.
+Legal Project Manager at Honigman Miller Schwartz & Cohn LLP, member of the Michigan Bar, broadly interested in the intersection of legal operations, business development, technology and access to justice, with a particular focus on legal project management, process improvement and legal analytics.
 
 [@pmellis](https://twitter.com/pmellis)
 
-[LinkedIn](https://www.linkedin.com/pub/patrick-ellis/55/814/939)
-
-[Personal Website](http://patellis.wordpress.com/)
+[LinkedIn](https://www.linkedin.com/en/patrickmellis)
 
 ## [Stephen Palley](https://github.com/sdpalley)
 
@@ -298,6 +296,27 @@ Member of the [Australian Computer Society](http://www.acs.org.au/), Member of t
 [Lecturer](http://people.unisa.edu.au/Steven.Clark), [SA Institute of Business and Technology](http://www.saibt.sa.edu.au/)
 
 [@maelorin](https://twitter.com/maelorin) on Twitter.
+
+## [David Colarusso](https://github.com/colarusso)
+
+[@colarusso](http://twitter.com/colarusso)
+
+[Personal website](http://www.davidcolarusso.com)
+
+Curator of QnA Markup, open source expert system and document creation engine for attorneys. [GitHub Wiki](https://github.com/colarusso/QnAMarkup/wiki)
+
+[Member](http://massbbo.org/bbolookup.php?sf=David&sl=Colarusso&sc=) of the Massachusetts Bar.
+
+## [Florian Glatz](https://github.com/Flotob)
+
+IP and Competition Law; Compliance in Crypto Economics; Legal Hacking
+
+[Member of Bar Association Berlin, Germany](http://www.rak-berlin.de/site/DE/int/02_rechtsuchende/02_06-anwaltsverzeichnis/anwaltsverzeichnis.php)
+
+[@heckerhut](https://twitter.com/heckerhut) | [keybase.io/ftg](https://keybase.io/ftg)
+
+[blockchain.lawyer](https://blockchain.lawyer)
+
 
 # Lawyers *at* GitHub
 
@@ -372,4 +391,3 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
-
