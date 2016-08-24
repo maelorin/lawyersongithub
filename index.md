@@ -211,7 +211,9 @@ Founder of [LawBox](http://www.lawbox.com), purveyors of fine legal apps since 2
 
 Member of the District of Columbia and New York Bars.
 
-General Counsel for the [Council of the District of Columbia](http://dccouncil.us)
+Former General Counsel for the [Council of the District of Columbia](http://dccouncil.us)
+
+Government innovator at [18F](https://18f.gsa.gov)
 
 ## [Daniel Schuman](https://github.com/DanielSchuman)
 
@@ -317,6 +319,31 @@ IP and Competition Law; Compliance in Crypto Economics; Legal Hacking
 
 [blockchain.lawyer](https://blockchain.lawyer)
 
+## [Patrick Bateman](https://github.com/batemapf/)
+
+Member of the Maryland Bar
+
+Proud graduate of UDC David A. Clarke School of Law
+
+Operations @ [18F](https://18f.gsa.gov)
+
+## [Alan deLevie](https://github.com/adelevie)
+
+Graduate of American University Washington College of Law.
+
+Developer at [18F](https://18f.gsa.gov).
+
+[@adelevie](https://twitter.com/adelevie)
+
+[Personal Website](http://alandelevie.com)
+
+## [Josh Bailes](https://github.com/joshuasbailes/)
+
+Member of the Maryland Bar
+
+Graduate of UDC David A. Clarke School of Law
+
+Agreements Lead/Operations @ [18F](https://18f.gsa.gov)
 
 # Lawyers *at* GitHub
 
@@ -335,16 +362,6 @@ IP and Competition Law; Compliance in Crypto Economics; Legal Hacking
 Member of the California State Bar.
 
 # Law Students on GitHub
-
-## [Alan deLevie](https://github.com/adelevie)
-
-Student at American University Washington College of Law.
-
-Developer at [18F](https://18f.gsa.gov).
-
-[@adelevie](https://twitter.com/adelevie)
-
-[Personal Website](http://alandelevie.com)
 
 ## [Joe Kane](https://github.com/kanejoe)
 
